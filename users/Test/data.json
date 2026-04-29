@@ -2,7 +2,7 @@
     "pwd": "Test",
     "wins": 0,
     "losses": 0,
-    "money": 0,
+    "money": 100000,
     "owned_skins": [
         "Basique"
     ],
