@@ -1,0 +1,10 @@
+{
+    "pwd": "Test",
+    "wins": 0,
+    "losses": 0,
+    "money": 0,
+    "owned_skins": [
+        "Basique"
+    ],
+    "equipped_skin": "Basique"
+}
